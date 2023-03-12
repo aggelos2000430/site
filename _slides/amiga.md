@@ -7,4 +7,5 @@ slides:
   - amiga-workbench
   - linux
   - macintosh-desktop
+  - windows95
 ---
