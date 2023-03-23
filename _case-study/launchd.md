@@ -1,7 +1,7 @@
 ---
 author: aggelos2000430
 title: Το init system της Apple
-Το launchd είναι το init system, κατασκευασμένο από την Apple, που ξεκίνησε να χρησιμοποιείται στο macOS Χ 10.4 και είναι ο αντικαταστάτης του παλαιότερου BSD-style init(SystemStarter).
+caption: Το launchd είναι το init system, κατασκευασμένο από την Apple, που ξεκίνησε να χρησιμοποιείται στο macOS Χ 10.4 και είναι ο αντικαταστάτης του παλαιότερου BSD-style init(SystemStarter).
 categories:
   - Μελέτη Περίπτωσης
 tags:
