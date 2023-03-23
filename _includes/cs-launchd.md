@@ -12,7 +12,7 @@
 αποτελεσματικά καθώς και να επικοινωνούν με άλλες υπηρεσίες μέσω
 socket και file descriptors.[^1]
 
-{% include figure image_path="/images/launchd.png" caption="Figure 1: Η ιδέα να δημιουργούνται πίστες από τους τελικούς χρήστες δεν είναι καινούρια και έχει δοκιμαστεί με επιτυχία σε αρκετά παιχνίδια ως πρόσθετη λειτουργία. Το Minecraft είναι από την αρχή σχεδιασμένο με σκοπό οι τελικοί χρήστες να σχεδιάζουν τον εικονικό κόσμο." id="fig:launchd" %}
+{% include figure image_path="/images/launchd.png" caption="Figure 1: Το launchd είναι το init system, κατασκευασμένο από την Apple, που ξεκίνησε να χρησιμοποιείται στο macOS Χ 10.4 και είναι ο αντικαταστάτης του παλαιότερου BSD-style init(SystemStarter)." id="fig:launchd" %}
 
 Αφού έχει εκκινηθεί το σύστημα και ο πυρήνας εκτελείται, το launchd,
 διαβάζει τις παραμέτρους για τον κάθε launch-on-demand system-level
