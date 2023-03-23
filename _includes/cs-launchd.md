@@ -12,8 +12,6 @@
 αποτελεσματικά καθώς και να επικοινωνούν με άλλες υπηρεσίες μέσω
 socket και file descriptors.[^1]
 
-{% include figure image_path="/images/launchd.png" caption="Figure 1: Το launchd είναι το init system, κατασκευασμένο από την Apple, που ξεκίνησε να χρησιμοποιείται στο macOS Χ 10.4 και είναι ο αντικαταστάτης του παλαιότερου BSD-style init(SystemStarter). id="fig:launchd" %}
-
 Αφού έχει εκκινηθεί το σύστημα και ο πυρήνας εκτελείται, το launchd,
 διαβάζει τις παραμέτρους για τον κάθε launch-on-demand system-level
 daemon από τους καταλόγους /System/Library/LaunchDaemons. Όταν ένας
